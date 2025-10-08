@@ -16,6 +16,7 @@ A simple web application to log and track workout sessions.
 4. Run the app: `python app.py`.
 5. Open `http://127.0.0.1:5000/` in your browser.
 
-## Demo Steps
+## Steps
 - Enter an exercise, reps, and sets in the form and click "Log".
 - View the workout history and totals below.
+
