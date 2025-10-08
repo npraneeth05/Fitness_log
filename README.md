@@ -1,4 +1,4 @@
-# Fitness Log
+# Fitness Log 🏋🏽
 
 A simple web application to log and track workout sessions.
 
@@ -17,8 +17,9 @@ A simple web application to log and track workout sessions.
 5. Open `http://127.0.0.1:5000/` in your browser.
 
 ## Steps
-- Enter an exercise, reps, and sets in the form and click "Log".
-- View the workout history and totals below.
+- Enter an exercise, reps, and sets in the form and click "Log" 💪🏻
+- View the workout history and totals below 🔥
 ![Alt text](Screenshots/Img1.png)
 
 ![Alt text](Screenshots/Img2.png)
+
