@@ -21,3 +21,4 @@ A simple web application to log and track workout sessions.
 - View the workout history and totals below.
 ![Alt text](Screenshots/Img1.png)
 
+![Alt text](Screenshots/Img2.png)
