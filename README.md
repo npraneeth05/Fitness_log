@@ -2,7 +2,7 @@
 
 A simple web application to log and track workout sessions.
 
-## Technologies Used
+## Technologies Used ⚙️
 - Flask
 - Bootstrap
 - JavaScript (jQuery)
@@ -10,7 +10,7 @@ A simple web application to log and track workout sessions.
 - Custom CSS
 
 ## Setup Instructions
-1. Install Python and pip.
+1. Install Python and pip 👨🏻‍💻
 2. Clone the repository or download the files.
 3. Install dependencies: `pip install -r requirements.txt`.
 4. Run the app: `python app.py`.
@@ -22,4 +22,5 @@ A simple web application to log and track workout sessions.
 ![Alt text](Screenshots/Img1.png)
 
 ![Alt text](Screenshots/Img2.png)
+
 
