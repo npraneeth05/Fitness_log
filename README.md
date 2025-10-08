@@ -19,4 +19,5 @@ A simple web application to log and track workout sessions.
 ## Steps
 - Enter an exercise, reps, and sets in the form and click "Log".
 - View the workout history and totals below.
+![Alt text](Screenshots/Img1.png)
 
